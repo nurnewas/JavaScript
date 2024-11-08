@@ -21,7 +21,7 @@ const person4 = parseFloat(22.4);
 const a = 0.1 ;
 const b = 0.2 ;
 const total = a + b;
-console.log(total.toFixed(1));
+// console.log(total.toFixed(1));
 // console.log(total.toFixed(2));
 
 
