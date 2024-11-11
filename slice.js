@@ -12,3 +12,10 @@ const n = name.split(',')
 
 console.log(n.join());
 console.log(n.join("-"));
+
+const firstName = "Nur";
+const lastName = "Newas";
+const fullName = firstName+ " "+lastName;
+console.log(fullName);
+
+console.log(firstName.concat(" ").concat(lastName));
