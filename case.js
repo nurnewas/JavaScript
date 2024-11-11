@@ -7,3 +7,13 @@ if (name.toLocaleLowerCase() === value.toLocaleLowerCase()) {
 else {
     console.log("End of Bosses!");
 }
+
+const str = " nur";
+const strValue = "   nur    ";
+
+if (str.trim === strValue.trim) {
+  console.log("Yes, you");
+}
+else {
+    console.log("No, you");
+}
