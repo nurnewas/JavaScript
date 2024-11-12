@@ -12,3 +12,7 @@ console.log(person.sallary);
 
 person.age = 25;
 console.log(person.age);
+
+const propsName = "pro"
+person[propsName] = 'devops';
+console.log(person);
