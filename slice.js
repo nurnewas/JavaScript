@@ -19,3 +19,6 @@ const fullName = firstName+ " "+lastName;
 console.log(fullName);
 
 console.log(firstName.concat(" ").concat(lastName));
+
+console.log(fullName.includes("N"));
+console.log(fullName.includes("X"));
